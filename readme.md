@@ -2,7 +2,7 @@
 
 ![Flutter Routing with MobX visual](https://raw.githubusercontent.com/jackvz/flutter-routing-with-mobx/master/flutter-routing-with-mobx.gif)
 
-Source code for [this article](https://www.indecorous.tk/blog/flutter-routing-with-mobx/)
+Source code for [this article](https://www.indecorous.online/blog/flutter-routing-with-mobx/)
 
 ## Install [Flutter](https://flutter.dev/docs/get-started/install)
 
